@@ -1,0 +1,28 @@
+.header{
+    width:100%;
+    text-align: left;
+}
+.header h3{
+    display: inline;
+}
+.header button{
+    float: right;
+    border: 1px solid white;
+}
+.start{
+    font-style: italic;
+    font-size: 18px;
+}
+#Status,#restart{
+    font-size: 22px;
+    font-weight: 300;
+}
+.copy_right_footer{
+    position: fixed;
+    color: rgb(6, 6, 6);
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(254, 251, 251);
+    line-height: 3;
+    text-align: center;
+}
